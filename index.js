@@ -55,5 +55,8 @@ interest.addEventListener("click",()=>{
 
 
  
+let sections = ['skill', 'experience', 'education', 'interest'];
+let answers = ['skill-ans', 'experience-ans', 'education-ans', 'interest-ans'];
+
 
  
